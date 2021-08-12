@@ -1,3 +1,4 @@
+
 <h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">!</h1>
 <h2 align="center">
 
@@ -36,11 +37,29 @@ I am BHUPAT JANGID
 
 <br>
 
-### **Talking about Personal Stuffs:**
+##
+### **Area of Interest:**
 
-- 🔭 I have completed training on Full stack web development, Machine Learning
-- 👯 I’m looking to internship on Machine learning, and Web Development
-- 💬 [Resume](https://drive.google.com/file/d/13R6lD8dtOGKT6JbfdTqPPM8VdxFLPumz/view?usp=sharing)
-- 😄 Pronouns: He/His
-- ✨Hobbies:- playing cricket, competitive coding, learning new technologies
+-  Data Structures and Algorithms.
+-  Competitive Coding.
+-  Full Stack Web Development.
+- Machine Learning.
+- DBMS.
+- Oops
+##
+### **Skills:**
+
+-  Programming in Python & C++.
+-  Teamwork Skill.
+-  Problem Solving skill.
+-  Creativity.
+-  Decision making skill.
+-  Competitve Coding, NPTEL
+##
+
+
+
+-  [Resume](https://drive.google.com/file/d/13R6lD8dtOGKT6JbfdTqPPM8VdxFLPumz/view?usp=sharing)
+- Pronouns: He/His
+- Hobbies:- playing cricket, competitive coding, learning new technologies
 </br>
