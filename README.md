@@ -38,6 +38,24 @@ I am BHUPAT JANGID
 <br>
 
 ##
+-  [Resume](https://drive.google.com/file/d/11GuH4jcJa0sSqrzjv14FBfFg3jjg8K4y/view?usp=sharing)
+##
+
+### **Projects:**
+
+-  My secrets.
+-  Covid Prediction.
+-  CricPrediction:.
+##
+
+### **Achievements:**
+
+-  Specialist on Codeforces with max Rating 1582.
+-  4-star Coder on Code chef with max Rating 1953.
+-  Runner up in WebZilla (Thar :- Annual Event) out of 1200+ registered students.
+-  Google Kickstart 2020 with max global rank 1444
+##
+
 ### **Area of Interest:**
 
 -  Data Structures and Algorithms.
@@ -47,6 +65,9 @@ I am BHUPAT JANGID
 - DBMS.
 - Oops
 ##
+
+
+
 ### **Skills:**
 
 -  Programming in Python & C++.
@@ -58,8 +79,4 @@ I am BHUPAT JANGID
 ##
 
 
-
--  [Resume](https://drive.google.com/file/d/13R6lD8dtOGKT6JbfdTqPPM8VdxFLPumz/view?usp=sharing)
-- Pronouns: He/His
-- Hobbies:- playing cricket, competitive coding, learning new technologies
 </br>
